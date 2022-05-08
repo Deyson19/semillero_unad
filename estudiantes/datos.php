@@ -1,10 +1,4 @@
 <?php 
-/*$host = 'localhost';
-$user = 'academiaUnad';
-//^VEEA)?m3}U0+Owx
-$password = '14E$)4LUU9=o';
-$database = 'academiaAlpha';
-$port = '3306';*/
 
 $host = 'localhost';
 $user = 'root';
